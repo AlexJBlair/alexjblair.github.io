@@ -1,8 +1,66 @@
-Mittens Profile{
-    border-radius: 5px;
-    size: 500px 800px;
+body{
+    background-color:darkslategray;
+    color:darkgoldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.main-header{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 600;
+    text-shadow: 8px;
+    color: darkgoldenrod;
+}
+.sub-header{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    text-shadow: 8px;
+    color: darkgoldenrod;
+}
+.section-header{
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 300;
+    text-shadow: 8px;
+    color: darkgoldenrod;
+}
+.about-description{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: darkgoldenrod;
+}
+.cat-info{
+    text-align: justify;
+    margin: 5px;
+}
+.coffee-info{
+    text-align: justify;
+    margin: 5px;
+}
+.plans{
+
+}
+.mittens-profile{
+    border-radius: 10px;
+    height: 400px;
+    width: 600px;
+    float: left ;
+    padding: 15px;
+    position: relative;
+}
+.oliver-profile{
+    border-radius: 10px;
+    height:600px;
+    width:500px;
+    float: left;
+    padding: 15px;
+    position:relative;
 }
 
-oliver Profile{
-    
+.first-coffee-art{
+    border-radius: 10px;
+    height: 400px;
+    width: 600px;
+    float: left;
+    padding: 15px;
+    position:relative;
 }
